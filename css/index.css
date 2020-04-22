@@ -1,0 +1,34 @@
+h3 {
+    color:  whitesmoke;
+  }
+body{
+      background-image: url(/images/leaf.gif);
+      font-family: sans-serif;
+      font: bold;
+  }
+
+  #resources{
+    color: azure;
+    font-size: larger;
+    background-color: brown;
+  }
+
+  #navbar{
+    color: azure;
+    font-size: larger;
+    background-color: brown;
+  }
+
+#row1{
+  color: azure;
+  font-size: larger;
+}
+#column2{
+  border: 100px;
+  border-color: blueviolet;
+}
+  #sefu{
+    height: 50px;
+    width: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
